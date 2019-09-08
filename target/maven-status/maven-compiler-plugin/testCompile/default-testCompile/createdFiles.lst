@@ -1,0 +1,7 @@
+com/kalaha/validator/PitValidatorTest.class
+com/kalaha/game/GameTest.class
+com/kalaha/util/PlayerIdTest.class
+com/kalaha/game/BoardTest.class
+com/kalaha/web/service/GameServiceTest.class
+com/kalaha/web/controller/GameControllerTest.class
+com/kalaha/factory/PlayerFactoryTest.class

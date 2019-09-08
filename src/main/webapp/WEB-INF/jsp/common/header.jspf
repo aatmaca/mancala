@@ -1,0 +1,11 @@
+<html>
+
+<head>
+<title>Kalaha</title>
+<link href="webjars/bootstrap/3.3.6/css/bootstrap.min.css"
+	rel="stylesheet">
+<link href="/css/main.css"
+	rel="stylesheet">
+</head>
+
+<body>

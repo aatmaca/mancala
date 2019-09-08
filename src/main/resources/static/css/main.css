@@ -1,0 +1,19 @@
+.button1 {
+  background-color: #50baff;
+  border: none;
+  color: white;
+  padding: 25px 25px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.button2 {
+  background-color: #ff9200;
+  border: none;
+  color: white;
+  padding: 25px 25px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+}
