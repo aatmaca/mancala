@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.kalaha.web.controller.GameControllerTest
--------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.732 s - in com.kalaha.web.controller.GameControllerTest
